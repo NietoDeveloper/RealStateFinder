@@ -34,7 +34,7 @@ export default function FooterCom() {
               <Footer.Title title='Follow us' />
               <Footer.LinkGroup col>
                 <Footer.Link
-                  href='https://github.com/Anuvansh22'
+                  href='https://github.com/NietoDeveloper'
                   target='_blank'
                   rel='noopener noreferrer'
                 >
@@ -56,14 +56,14 @@ export default function FooterCom() {
         <div className='w-full sm:flex sm:items-center sm:justify-between'>
           <Footer.Copyright
             href='#'
-            by="Anuvansh22"
+            by="Nieto Developer"
             year={new Date().getFullYear()}
           />
           <div className="flex gap-6 sm:mt-0 mt-4 sm:justify-center">
             <Footer.Icon href='#' icon={BsFacebook}/>
             <Footer.Icon href='#' icon={BsInstagram}/>
             <Footer.Icon href='#' icon={BsTwitterX}/>
-            <Footer.Icon href='https://github.com/Anuvansh22' icon={BsGithub}/>
+            <Footer.Icon href='https://github.com/NietoDeveloper' icon={BsGithub}/>
             <Footer.Icon href='#' icon={BsDribbble}/>
 
           </div>
