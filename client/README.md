@@ -16,8 +16,8 @@ npm or yarn
 
 Setup Instructions
 
-Clone the repository:git clone <repository-url>
-cd <project-directory>
+Clone the repository:git clone <https://github.com/NietoDeveloper/RealStateFinder/tree/main/client>
+cd <>
 
 
 Install dependencies:npm install
