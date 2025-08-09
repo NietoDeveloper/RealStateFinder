@@ -6,7 +6,7 @@ Project Structure
 /frontend: React frontend built with Vite and styled with Tailwind CSS.
 /backend: Node.js backend for API services.
 
-## Prerequisites
+## Requisitos
 
 Node.js (v16 or higher)
 npm or yarn
@@ -66,3 +66,5 @@ Serve the backend:Ensure the backend is configured to serve the frontend's stati
 
 License
 MIT License
+
+## Manuel Nieto Software Developer
