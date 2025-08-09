@@ -1,4 +1,4 @@
-Frontend README
+## Real State Finder Frontend 
 
 Project Overview
 This is the frontend of a web application built with React, Node.js, Vite, and Tailwind CSS. It provides a modern, responsive user interface with fast development and build times.
@@ -17,7 +17,7 @@ npm or yarn
 Setup Instructions
 
 Clone the repository:git clone <https://github.com/NietoDeveloper/RealStateFinder/tree/main/client>
-cd <>
+cd <RealStateFinder>
 
 
 Install dependencies:npm install
