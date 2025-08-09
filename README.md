@@ -1,16 +1,17 @@
-MyApp
+## Real State Finder
+
 A full-stack web application with separated frontend and backend, built using JavaScript, React, Node.js, Vite, and Tailwind CSS.
 Project Structure
 
 /frontend: React frontend built with Vite and styled with Tailwind CSS.
 /backend: Node.js backend for API services.
 
-Prerequisites
+## Prerequisites
 
 Node.js (v16 or higher)
 npm or yarn
 
-Installation
+## Installation
 
 Clone the repository:
 git clone <repository-url>
@@ -28,7 +29,7 @@ npm install
 
 
 
-Running the Application
+## Running the Application
 
 Start the backend:
 cd backend
