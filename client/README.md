@@ -67,3 +67,5 @@ Development: npm run dev for hot-reloading.
 Production: Serve the dist folder using a static server (e.g., npm run preview).
 
 ## Manuel Nieto Software Developer
+
+### NietoDeveloper
