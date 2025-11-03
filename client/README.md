@@ -14,7 +14,7 @@ Prerequisites
 Node.js (v16 or higher)
 npm or yarn
 
-Setup Instructions
+## Setup Instructions
 
 Clone the repository:git clone <https://github.com/NietoDeveloper/RealStateFinder/tree/main/client>
 cd <RealStateFinder>
