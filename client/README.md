@@ -42,7 +42,7 @@ public/: Static assets served directly.
 vite.config.js: Vite configuration file.
 tailwind.config.js: Tailwind CSS configuration file.
 
-Scripts
+## Scripts
 
 npm run dev: Starts the development server.
 npm run build: Builds the app for production.
