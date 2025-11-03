@@ -1,6 +1,7 @@
 # Real State Finder Frontend
 
-Project Overview
+### Project Overview
+
 This is the frontend of a web application built with React, Node.js, Vite, and Tailwind CSS. It provides a modern, responsive user interface with fast development and build times.
 Tech Stack
 
