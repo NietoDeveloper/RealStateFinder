@@ -62,7 +62,7 @@ export default function FooterCom() {
           />
           <div className="flex gap-6 sm:mt-0 mt-4 sm:justify-center">
             <Footer.Icon href='#' icon={BsFacebook}/>
-            <Footer.Icon href='#' icon={BsInstagram}/>
+            <Footer.Icon target='_blank' href='#' icon={BsInstagram}/>
             <Footer.Icon target='_blank' href='#' icon={BsTwitterX}/>
             <Footer.Icon target='_blank' href='https://github.com/NietoDeveloper' icon={BsGithub}/>
             <Footer.Icon target='_blank' href='#' icon={BsDribbble}/>
