@@ -47,8 +47,8 @@ export default function Header() {
     <Navbar className='border-b-2'>
       <Link to='/'>
       <h1 className='font-bold text-sm sm:text-xl flex flex-wrap'>
-        <span className='text-slate-500 dark:text-slate-300'>Home</span>
-        <span className="text-slate-700 dark:text-white">Finder</span>
+        <span className='text-slate-500 dark:text-slate-300'>Real State</span>
+        <span className="text-slate-700 dark:text-white">Finder  DT</span>
       </h1>
       </Link>
       <form onSubmit={handleSubmit}>
