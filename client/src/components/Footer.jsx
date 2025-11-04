@@ -13,7 +13,7 @@ export default function FooterCom() {
             >
               <h1 className='font-bold text-sm sm:text-xl flex flex-wrap'>
                 <span className='text-slate-500 dark:text-slate-300'>Real Estate</span>
-                <span className="text-slate-700 dark:text-white">Radar</span>
+                <span className="text-slate-700 dark:text-white">Finder</span>
             </h1>
             </Link>
           </div>
