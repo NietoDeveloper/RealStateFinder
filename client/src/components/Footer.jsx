@@ -65,7 +65,7 @@ export default function FooterCom() {
             <Footer.Icon href='#' icon={BsInstagram}/>
             <Footer.Icon href='#' icon={BsTwitterX}/>
             <Footer.Icon target='_blank' href='https://github.com/NietoDeveloper' icon={BsGithub}/>
-            <Footer.Icon href='#' icon={BsDribbble}/>
+            <Footer.Icon target='_blank' href='#' icon={BsDribbble}/>
 
           </div>
         </div>
