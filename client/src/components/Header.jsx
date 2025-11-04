@@ -147,7 +147,7 @@ export default function Header() {
   }}
 >
   <span style={{ color: 'inherit', textDecoration: 'none' }}>
-    Home Finder
+    Real State Finder DT
   </span>
 </Navbar.Link>
 
