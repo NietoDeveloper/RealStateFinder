@@ -1,4 +1,4 @@
-## Real State Finder
+## Real Estate Finder
 
 A full-stack web application with separated frontend and backend, built using JavaScript, React, Node.js, Vite, and Tailwind CSS.
 Project Structure
@@ -14,7 +14,7 @@ npm or yarn
 ## Installation
 
 Clone the repository:
-git clone <https://github.com/NietoDeveloper/RealStateFinder>
+git clone <https://github.com/NietoDeveloper/RealEstateFinder>
 cd MyApp
 
 
