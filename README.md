@@ -14,7 +14,7 @@ npm or yarn
 ## Installation
 
 Clone the repository:
-git clone <https://github.com/NietoDeveloper/RealStateFinder>
+git clone <https://github.com/NietoDeveloper/RealEstateFinder>
 cd MyApp
 
 
