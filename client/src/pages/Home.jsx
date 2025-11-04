@@ -52,7 +52,7 @@ export default function Home() {
       <div className='flex flex-col gap-6 p-28 px-3 max-w-6xl mx-auto'>
         <h1 className=' font-bold text-3xl
         lg:text-6xl'>
-          Find the <span className='text-blue-400'>dream</span> Place 
+          Find <span className='text-blue-400'>Real Estate</span>
           <br />
           for you
         </h1>
