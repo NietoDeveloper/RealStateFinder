@@ -147,7 +147,7 @@ export default function Header() {
   }}
 >
   <span style={{ color: 'inherit', textDecoration: 'none' }}>
-    Bangalore House Price Predictor
+    Home Finder
   </span>
 </Navbar.Link>
 
