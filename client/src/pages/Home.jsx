@@ -52,9 +52,9 @@ export default function Home() {
       <div className='flex flex-col gap-6 p-28 px-3 max-w-6xl mx-auto'>
         <h1 className=' font-bold text-3xl
         lg:text-6xl'>
-          Find your <span className='text-blue-400'>dream</span> home 
+          Find the <span className='text-blue-400'>dream</span> Place 
           <br />
-          right here
+          for you
         </h1>
         <div className='text-gray-400 text-sm sm:text-sm'>
         ResidenceRadar is the place you were looking for to 
