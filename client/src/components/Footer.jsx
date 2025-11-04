@@ -55,7 +55,8 @@ export default function FooterCom() {
         <Footer.Divider />
         <div className='w-full sm:flex sm:items-center sm:justify-between'>
           <Footer.Copyright
-            href='#'
+            href='https://github.com/NietoDeveloper'
+            target='_blank'
             by="Nieto Developer"
             year={new Date().getFullYear()}
           />
@@ -63,7 +64,7 @@ export default function FooterCom() {
             <Footer.Icon href='#' icon={BsFacebook}/>
             <Footer.Icon href='#' icon={BsInstagram}/>
             <Footer.Icon href='#' icon={BsTwitterX}/>
-            <Footer.Icon href='https://github.com/NietoDeveloper' icon={BsGithub}/>
+            <Footer.Icon target='_blank' href='https://github.com/NietoDeveloper' icon={BsGithub}/>
             <Footer.Icon href='#' icon={BsDribbble}/>
 
           </div>
