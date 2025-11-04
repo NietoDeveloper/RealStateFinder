@@ -147,7 +147,7 @@ export default function Header() {
   }}
 >
   <span style={{ color: 'inherit', textDecoration: 'none' }}>
-    Real State Finder DT
+    Real Estate Finder DT
   </span>
 </Navbar.Link>
 
