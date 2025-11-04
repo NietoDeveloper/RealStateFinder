@@ -40,7 +40,7 @@ export default function FooterCom() {
                 >
                   Github
                 </Footer.Link>
-                <Footer.Link href='#'>NietoDeveloper</Footer.Link>
+                <Footer.Link target='_blank' href='#'>NietoDeveloper</Footer.Link>
               </Footer.LinkGroup>
             </div>
             <div>
