@@ -1,4 +1,4 @@
-# Real State Finder Frontend
+# Real Estate Finder Frontend
 
 ### Project Overview
 
@@ -18,7 +18,7 @@ npm or yarn
 ## Setup Instructions
 
 Clone the repository:git clone <https://github.com/NietoDeveloper/RealStateFinder/tree/main/client>
-cd <RealStateFinder>
+cd <RealEstateFinder>
 
 Install dependencies:npm install
 
@@ -27,6 +27,7 @@ Start the development server:npm run dev
 The app will be available at <http://localhost:5173>.
 
 ### Build Instructions
+
 To create a production build:
 npm run build
 
